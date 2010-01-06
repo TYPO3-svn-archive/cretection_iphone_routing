@@ -1,0 +1,5 @@
+page.1 =< plugin.tx_cretectioniphonerouting_pi1
+plugin.tx_cretectioniphonerouting_pi1{
+id = 0
+active = 0
+}

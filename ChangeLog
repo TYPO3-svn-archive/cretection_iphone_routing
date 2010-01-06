@@ -1,0 +1,5 @@
+2009-10-22 Jonathan Starck  <info@cretection.de>
+
+Version 1.0.1
+
+Replace the Database access with $GLOBALS[TSFE]
